@@ -23,5 +23,5 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 ---
 
 >  **Certificate Verification:** You can view my verified certificate for Foundational Skills for IT Professionals [here](https://github.com/darienjenkins4/MyCC-Certificates/blob/main/Net%20I%20Cert%208.2026%20154.pdf).
->  **Certificate Verification:** You can view my verified certificate for Microsoft Certified - AI Fundamentals [here]().
+>  **Certificate Verification:** You can view my verified certificate for Microsoft Certified - AI Fundamentals [here](https://github.com/darienjenkins4/MyCC-Certificates/blob/main/Microsoft%20Azure%20AI%20Fundamentals%20.png).
 
