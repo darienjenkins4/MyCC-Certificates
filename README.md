@@ -16,9 +16,9 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 | Certificate Details | Summary |
 | :--- | :--- |
 | **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
-| **Program/Course** | *Foundational Skills for IT Professionals* |
-| **Date Completed** | *September 27th, 2026* |
-| **Key Skills Acquired** | Network Administration, Cybersecurity Fundamentals, Hardware Troubleshooting, System Support |
+| **Program/Course** | *Foundational Skills for IT Professionals - Date Completed September 27th, 2026* |
+| **Program/Course** | *Microsoft Certified - AI Fundamentals - Date Completed October 29th, 2026* |
+| **Key Skills Acquired** | Network Administration, Cybersecurity Fundamentals, Hardware Troubleshooting, System Support, Microsoft Azure, Foundry IQ |
 
 ---
 
